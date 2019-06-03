@@ -26,12 +26,12 @@ Using JavaScript, you can build a truly native application that renders native U
 # Idea pad screenshots app
 
 
-![picture alt]( https://github.com/andreadsw/react-native-idea-app/blob/master/assets/Add-ideapad-small@1x.png "Add idea app")
+![picture alt]( https://github.com/andreadsw/react-native-idea-app/blob/master/assets/Add-ideapad-small.png "Add idea app")
 
-![picture alt]( https://github.com/andreadsw/react-native-idea-app/blob/master/assets/List-ideapad-small@1.png
+![picture alt]( https://github.com/andreadsw/react-native-idea-app/blob/master/assets/List-ideapad-small.png
  "List ideas app")
 
-![picture alt]( https://github.com/andreadsw/react-native-idea-app/blob/master/assets/Edit-ideapad-small@1x.png
+![picture alt]( https://github.com/andreadsw/react-native-idea-app/blob/master/assets/Edit-ideapad-small.png
  "List ideas app")
 
 
@@ -56,7 +56,7 @@ Requirements:
 *	https://github.com/reduxjs/redux
 * https://firebase.google.com/docs/auth/web/password-auth?authuser=0
 * https://github.com/react-native-training/react-native-elements
-*  https://reactnavigation.org/
+* https://reactnavigation.org/
 
 
 
